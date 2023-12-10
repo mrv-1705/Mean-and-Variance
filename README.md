@@ -70,12 +70,14 @@ var=EX2-mean**2
 SD=np.sqrt(var)
 print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var) 
-print("The Standard deviation of arrival from feeder is %.3F "%SD)```
+print("The Standard deviation of arrival from feeder is %.3F "%SD)
+```
 
 
 
 # Output : 
-![image](https://github.com/mrv-1705/Mean-and-Variance/assets/114565075/b1c74203-eb2f-42fe-a2ac-c7f8637e6186)
+![image](https://github.com/mrv-1705/Mean-and-Variance/assets/114565075/b17fdbda-5823-413f-bd74-a9d766532e62)
+
 
 
 # Results :
